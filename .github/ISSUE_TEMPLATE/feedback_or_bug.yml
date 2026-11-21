@@ -1,0 +1,23 @@
+name: Question or Feature Feedback
+description: Share feedback, ask a question, or suggest a capability for DeskBook.
+title: "[Feedback]: "
+labels: ["feedback"]
+body:
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Topic
+      options:
+        - Feature Question
+        - Role Visibility / Access Control
+        - Feedback & Triage Workflow
+        - General Comment
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Share your question, use-case idea, or suggestion.
+    validations:
+      required: true

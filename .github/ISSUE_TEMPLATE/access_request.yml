@@ -1,0 +1,43 @@
+name: Request Demo / Evaluation Access
+description: Request access to evaluate DeskBook or discuss a custom setup for your organization.
+title: "[Access Request]: "
+labels: ["access-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for checking out **DeskBook**! Fill out the quick context below to request private evaluation access or ask about adapting it for your organization.
+  - type: dropdown
+    id: org_type
+    attributes:
+      label: Organization / Team Type
+      description: How would your team use DeskBook?
+      options:
+        - Small Business / Support Team
+        - Volunteer / Field Response Organization
+        - Online Community / Event Staff
+        - Nonprofit / Education
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: team_size
+    attributes:
+      label: Approximate Team Size & Role Tiers
+      placeholder: "e.g. 25 staff across Trainees, Specialists, Leads, and Managers"
+    validations:
+      required: false
+  - type: textarea
+    id: use_case
+    attributes:
+      label: What workflow or problem are you hoping to solve?
+      placeholder: Tell us a bit about your current SOP/wiki setup and access needs.
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Showcase & Privacy Acknowledgment
+      options:
+        - label: I understand access grants private evaluation only and is non-transferable.
+          required: true
