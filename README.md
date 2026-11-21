@@ -1,18 +1,34 @@
-# DeskBook — Role-Gated Team Handbook & Operations Wiki
-
 <div align="center">
 
-<img src="assets/deskbook-demo-2x.webp" alt="DeskBook 2x Retina Walkthrough — Reader, Markdown Studio, Role Locking, Feedback Triage, and Instant Session Revocation" width="880" />
+# DeskBook
 
-<br/><br/>
+**Role-Gated Team Handbook &middot; Duty-Desk SOP Binder &middot; Anti-Chat Document Feedback Triage**
 
-<img src="assets/deskbook-overview-2x.png" alt="DeskBook 2x Retina Architecture & Feature Overview" width="880" />
+[![Release](https://img.shields.io/github/v/release/PNWcoastie/deskbook?style=for-the-badge&label=Release&color=B89C72)](https://github.com/PNWcoastie/deskbook/releases/latest)
+[![Access Control](https://img.shields.io/badge/Access-Role--Gated_Folders_%26_Pages-734D29?style=for-the-badge)](#what-it-does-out-of-the-box)
+[![Doc Triage](https://img.shields.io/badge/Feedback-Section--Pinned_Flags_(No_Chat)-2E6B47?style=for-the-badge)](#what-it-does-out-of-the-box)
+[![Request Demo](https://img.shields.io/badge/Evaluation-Request_Access_%2F_Setup-2B5B84?style=for-the-badge)](../../issues/new?template=access_request.yml)
+[![License](https://img.shields.io/badge/License-Proprietary_%C2%B7_All_Rights_Reserved-4D463B?style=for-the-badge)](./LICENSE)
+
+<br/>
+
+<img src="assets/deskbook-demo-2x.webp" alt="DeskBook 2x Retina Walkthrough — Reader, Markdown Studio, Role Locking, Feedback Triage, and Instant Offboarding" width="100%" />
 
 </div>
 
 > [!IMPORTANT]
-> **Public Project Showcase & Request Tracker**
-> DeskBook is a production-proven internal operations binder built to solve real team coordination and access-control headaches at near-zero infrastructure cost. If you want to evaluate DeskBook for your organization or request a custom setup, **[open an Access / Evaluation Request](../../issues/new?template=access_request.yml)**.
+> **Public Project Showcase & Request Tracker:** DeskBook is a production-proven internal operations binder built to solve real team coordination and access-control headaches without bloated per-seat pricing.
+>
+> * **[Request Evaluation Access / Custom Setup](../../issues/new?template=access_request.yml)** — Share your organization type and workflow needs.
+> * **[Ask a Question or Suggest a Feature](../../issues/new?template=feedback_or_bug.yml)** — Reach out directly via GitHub Issues.
+
+---
+
+## Visual Overview (2x Retina)
+
+<img src="assets/deskbook-overview-2x.png" alt="DeskBook 4-Panel 2x Retina Overview" width="100%" />
+
+*Clockwise from top-left: Reader Workspace & Anti-Chat Section Feedback Drawer &middot; Markdown Studio with Split/True-Width Preview & Visibility Overrides &middot; Staff Sessions, Instant Force Sign-Out & Sign-In Gate &middot; Per-Role Category Access Controls & Unified Feedback Triage Inbox.*
 
 ---
 
@@ -44,10 +60,10 @@ Most growing organizations hit the same wall: **Google Docs becomes a maze of br
 
 ---
 
-## Interested in Using or Evaluating DeskBook?
+## Interested in DeskBook for Your Organization?
 
-- **[Request Private Demo / Evaluation Access](../../issues/new?template=access_request.yml)** — Share your organization type and workflow needs.
-- **[Ask a Question or Suggest a Feature](../../issues/new?template=feedback_or_bug.yml)** — Reach out directly via GitHub Issues.
+- **[Request Private Demo / Evaluation Access](../../issues/new?template=access_request.yml)** — Tell us about your team size, role structure, and SOP workflow.
+- **[Ask a Question or Suggest a Feature](../../issues/new?template=feedback_or_bug.yml)** — Open a direct conversation in Issues.
 
 ---
 
