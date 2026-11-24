@@ -62,8 +62,12 @@ Most growing organizations hit the same wall: **Google Docs becomes a maze of br
 
 ## Interested in DeskBook for Your Organization?
 
-- **[Request Private Demo / Evaluation Access](../../issues/new?template=access_request.yml)** — Tell us about your team size, role structure, and SOP workflow.
-- **[Ask a Question or Suggest a Feature](../../issues/new?template=feedback_or_bug.yml)** — Open a direct conversation in Issues.
+Want DeskBook branded, role-configured, and deployed for your business, volunteer crew, or Discord community? I offer turnkey setup and custom workflow integration:
+
+- **[Request Private Demo / Turnkey Setup](../../issues/new?template=access_request.yml):** Share your team size, role structure, and SOP workflow.
+- **[Start a GitHub Discussion](https://github.com/PNWcoastie/deskbook/discussions):** Ask questions about deployment, features, or custom integrations.
+- **Direct Email:** Reach out directly at **[jadedmatted@gmail.com](mailto:jadedmatted@gmail.com)** for commercial licensing or custom deployments.
+- **[Report a Bug or Suggest a Feature](../../issues/new?template=feedback_or_bug.yml):** Open a tracked ticket in Issues.
 
 ---
 
